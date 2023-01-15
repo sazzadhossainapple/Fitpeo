@@ -1,0 +1,11 @@
+.main-container {
+  display: flex;
+  gap: 20px;
+}
+.side-bars {
+  width: 20%;
+  background-color: #010422;
+}
+.main-content {
+  width: 80%;
+}
